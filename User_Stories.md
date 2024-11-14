@@ -29,7 +29,7 @@
 - There should be a separate button for music and sfx.
 
 
-## User Story 5: Player Saves Game Progress
+## User Story 4: Player Saves Game Progress
 ### As a player,
 ### I want to save my progress during the game,
 So that I can resume playing from where I left off if I exit or pause the game.
@@ -38,7 +38,7 @@ So that I can resume playing from where I left off if I exit or pause the game.
 - When the player reopens the game, they must be able to resume from the saved progress, including score and difficulty.
 
 
-## User Story 6: Player Gains Achievements
+## User Story 5: Player Gains Achievements
 ### As a player,
 ### I want to gain achievements,
 ### So that I can show off how good I am at the game.
