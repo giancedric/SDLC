@@ -1,3 +1,5 @@
+# Festive Focus
+
 # 1. Unit Testing the Game Mechanics
 
 ## 1. Sequence Generation
