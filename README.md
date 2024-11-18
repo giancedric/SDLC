@@ -2,7 +2,7 @@
 
 ## Project Description
 
-A Christmas themed memory game, Festive Focus is a reskin of common memory games, meant to not only test your memory skills but to also improve them through fun and bright randomly generated sequences. Follow the order of the ornaments on the tree and watch as they jingle to life with each correctly repeated pattern. Move forward from round to round with new sequences and added ornaments.
+A Christmas themed memory game, Festive Focus is a reskin of Simon Says, meant to not only test your memory skills but to also improve them through fun and bright randomly generated sequences. Follow the order of the ornaments on the tree and watch as they jingle to life with each correctly repeated pattern. Move forward from round to round with harder and longer sequences.
 
 ## Installation Instructions
 
