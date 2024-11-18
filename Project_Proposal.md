@@ -1,4 +1,4 @@
-# Project Proposal: Reskinned Memory Game
+# Project Proposal: Reskinned Memory Game/Simon Says // Festive Focus
 
 
 ### Team Members: Gian, V
