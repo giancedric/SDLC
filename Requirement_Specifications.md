@@ -10,7 +10,7 @@
 
 ## Game Overview
 
-Christmas themed memory game with the objective to memorize the random order given of the ornaments lighting up and repeating the sequence afterwards to move onto the next round.
+A reskin of the google memory game/Simon Says to a Christmas themed memory game with the objective to memorize the random order given of the ornaments lighting up and repeating the sequence afterwards to move onto the next round.
 
 The main goal being to see how many rounds you are able to succesfully pass by testing your memory with the randomly generated sequences the ornaments light up in.
 
