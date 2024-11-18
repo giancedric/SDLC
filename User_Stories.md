@@ -1,6 +1,6 @@
 # User Stories and Acceptance Criterion Frame
 
-## User Story 1: Player Starts the Game
+## User Story 1: Player Starts Festive Focus
 ### As a player,
 ### I want to start a new game by pressing a “Start” button,
 ### So that I can begin playing Festive Memory Game and enjoy the game.
