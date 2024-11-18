@@ -1,4 +1,4 @@
-# Festive Focus 
+# Festive Focus
 
 ## Project Description
 
