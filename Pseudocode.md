@@ -1,4 +1,4 @@
-# Pseudo Code
+# Pseudocode
 
 ## Team members: Gian and V
 
